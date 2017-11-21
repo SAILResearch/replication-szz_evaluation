@@ -7,6 +7,7 @@ Abstract: The approach proposed by Silwerski, Zimmermann, and Zeller (SZZ) for i
 
 ## Bibtex
 
+```bibtex
 @ARTICLE{daCosta17,
 author={D. A. da Costa and S. McIntosh and W. Shang and U. Kulesza and R. Coelho and A. E. Hassan},
 journal={IEEE Transactions on Software Engineering},
@@ -19,6 +20,7 @@ doi={10.1109/TSE.2016.2616306},
 ISSN={0098-5589},
 month={July}
 }
+```
 
 ## Data
 
